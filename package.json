@@ -1,0 +1,14 @@
+{
+  	"author": "TimNew",
+	"name": "di.js",
+	"version": "0.0.0",
+	"main": "./lib/di.js",
+	"dependencies": { 
+		"yaml": "*",
+		"coffee-script": "*"
+	},
+	"scripts": {
+		"test": ""
+	}
+ 	"devDependencies": {}
+}
